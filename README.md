@@ -17,6 +17,7 @@ Welcome to my portfolio repository! 🚀 Here, I showcase a variety of projects 
 ## About Me
 I am a **Data Engineer** and **Analytics Professional** with a background in:
 - Developing efficient and scalable ETL pipelines.
+- Building interactive dashboards in PowerBi.
 - Designing predictive models for actionable insights.
 - Leveraging tools like Python, SQL, and cloud-based technologies (e.g., Azure, Snowflake) to create robust data solutions.
 
