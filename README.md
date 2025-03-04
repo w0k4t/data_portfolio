@@ -7,10 +7,6 @@ Welcome to my portfolio repository! 🚀 Here, I showcase a variety of projects 
 ## Table of Contents
 - [About Me](#about-me)
 - [Skills and Technologies](#skills-and-technologies)
-- [Projects](#projects)
-  - [ETL Pipelines](#etl-pipelines)
-  - [Predictive Analytics](#predictive-analytics)
-
 
 ---
 
@@ -29,36 +25,11 @@ My goal is to combine technical expertise with analytical thinking to drive impa
 Here are some of the tools and technologies I have used in these projects:
 
 - **Programming:** Python (pandas, NumPy, scikit-learn, etc.), SQL
-- **Data Engineering:** Azure, Snowflake, Data Integration, ETL Pipeline Design
+- **Data Engineering:** Azure, Snowflake, GCP, Data Integration, ETL Pipeline Design
 - **Big Data & Streaming:** Kafka, Data Lakes
-- **Visualization:** Power BI
+- **Visualization:** Power BI, Tableau
 - **Modeling:** Predictive Analytics, OLS Regression
 
----
-
-## Projects
-
-### ETL Pipelines
-1. **Retail Sales Data Pipeline**  
-   - **Description:** Built an ETL pipeline to ingest, transform, and load retail sales data into a Snowflake data lake for analysis.  
-   - **Technologies:** Python, SQL, Azure, Snowflake, Postgres, Motherduck  
-   - **Highlights:**  
-     - Automated data integration and cleansing.  
-     - Optimized data structures for analytics.  
-
-2. **API Data Integration for Forecasting**  
-   - **Description:** Integrated external API data into a master database for forecasting purposes.  
-   - **Technologies:** Python, REST API, Azure  
-   - **Highlights:**  
-     - Implemented real-time data acquisition using REST APIs.  
-     - Performed data profiling and cleansing for downstream applications.  
-
-### Predictive Analytics
-1. **Price Elasticity of Demand Analysis**  
-   - **Description:** Developed an OLS regression model to analyze price elasticity of demand for a retail client.  
-   - **Technologies:** Python (statsmodels, scikit-learn), pandas  
-   - **Highlights:**  
-     - Provided actionable insights into pricing strategies.  
 
 ---
 
